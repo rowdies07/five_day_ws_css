@@ -1,7 +1,6 @@
 
 .login{
     width: 400px;
-    border: 1px solid lightgray;
     border-radius: 16px;
     padding: 10px;
     margin: 90px auto;
@@ -20,4 +19,33 @@
 .small{
     font-size: 14px;
     color: gray;
+}
+
+.btn{
+    padding: 20px 40px 20px 40px;
+    background-color:black;
+    color:white;
+    border-radius:50px;
+    font-weight: 900;
+    font-size: 18px;
+    margin-left:45px;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+
+h2{
+    font-weight:600;
+    margin-bottom: 30px;
+}
+
+.text1{
+color:grey;
+margin-left:100px;
+margin-bottom: 30px;
+}
+
+.text2{
+color:grey;
+margin-left:40px;
+font-size: 14px;
 }
